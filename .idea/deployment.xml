@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="birzha">
+    <serverData>
+      <paths name="birzha">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/xnode.pro/www/testcryp" local="$PROJECT_DIR$" web="/testcryp/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

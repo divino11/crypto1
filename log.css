@@ -1,0 +1,14 @@
+html {
+    background-color: #000000;
+    background-image: none;
+}
+
+body {
+    background-color: #000000;
+    background-image: none;
+}
+
+.color_text {
+    color: #008000;
+    font-size: 18px;
+}
